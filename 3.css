@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+.bo {width: 945px;margin: auto;}
+
+.phude {font-style: italic;color: gray;}
+
+body {background: gray;}
+
+.mauvang {position: absolute;opacity: 0;transition: all ease 0.9s;width: 300px;height: 200px;top: 0px;background: #781707a1;}
+
+._1khoi:hover .mauvang {opacity: 1;}
+
+._1khoi {width: 300px;height: 244px;position: relative;background: white;text-align: center;}
+
+._1khoi {float: left;margin: 7px;}
+
+._1khoi {}
+
+.tren {width: 300px;height: 200px;position: relative;}
+
+img {width: 300px;height: 200px;position: relative;}

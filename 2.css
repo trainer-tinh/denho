@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+p {color: gray;font-size: 19px;font-style: italic;}
+
+h3 {line-height: 22px;margin-bottom: 20px;margin-top: 15px;}
+
+.gio {color: gray;font-style: italic;}
+
+body {}
+
+.team {position: relative;margin: auto;/* padding: 0px 128px 0px 128px; */width: 900px;margin-top: 8px;height: 181px;border-bottom: 2px solid gray;}
+
+.tengoi {float: left;/* margin: 10px; */border: 1px solid gray;padding: 1px 2px;margin-right: 5px;text-transform: uppercase;}
+
+img {width: 258px;float: left;margin-right: 10px;}
